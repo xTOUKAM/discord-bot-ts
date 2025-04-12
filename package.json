@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xTOUKAM/discord-bot-ts.git"
+  },
+  "author": "TOUKAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xTOUKAM/discord-bot-ts/issues"
+  },
+  "homepage": "https://github.com/xTOUKAM/discord-bot-ts#readme",
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "typescript": "5.8.3"
+  },
+  "dependencies": {
+    "discord.js": "14.18.0",
+    "dotenv": "16.4.7"
+  }
+}
